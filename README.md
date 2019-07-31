@@ -1,2 +1,2 @@
 # Git-firstproj
-welcome to git
+welcome to git and enjoy the day
